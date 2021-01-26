@@ -9,7 +9,6 @@
 
 <img src="https://ssh-mitm.at/assets/images/streamline-free/monitor-loading-progress.svg" align="left" width="138">
 
-
 The first step to using any software package is getting it properly installed.
 
 To install SSH-MITM, simply run this simple command in your terminal of choice:
@@ -18,16 +17,14 @@ To install SSH-MITM, simply run this simple command in your terminal of choice:
 
 ## Connect to the network
 
+<img src="https://ssh-mitm.at/assets/images/streamline-free/programmer-male.svg" align="left" width="138">
 
 To start an intercepting mitm-ssh server on Port 10022, all you have to do is run a single command.
 
-<img src="https://ssh-mitm.at/assets/images/streamline-free/programmer-male.svg" align="left" width="138">
-
-
+    # start the mitm server
     $ ssh-mitm --remote-host 192.168.0.x
-    
-Now let's try to connect to the ssh-mitm server.
 
+    # connect to the mitm server
     $ ssh -p 10022 user@proxyserver
 
 ## Contributing
