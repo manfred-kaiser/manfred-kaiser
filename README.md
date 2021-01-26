@@ -21,11 +21,13 @@ To install SSH-MITM, simply run this simple command in your terminal of choice:
 
 To start an intercepting mitm-ssh server on Port 10022, all you have to do is run a single command.
 
-    # start the mitm server
-    $ ssh-mitm --remote-host 192.168.0.x
+```bash
+# start the mitm server
+$ ssh-mitm --remote-host 192.168.0.x
 
-    # connect to the mitm server
-    $ ssh -p 10022 user@proxyserver
+# connect to the mitm server
+$ ssh -p 10022 user@proxyserver
+```
 
 ## Contributing
 
