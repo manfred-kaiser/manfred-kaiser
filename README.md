@@ -10,6 +10,9 @@
 
 <img src="https://ssh-mitm.at/assets/images/streamline-free/monitor-loading-progress.svg" align="left" width="128">
 
+
+The first step to using any software package is getting it properly installed.
+
 To install SSH-MITM, simply run this simple command in your terminal of choice:
 
     $ pip install ssh-mitm
