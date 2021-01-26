@@ -1,10 +1,7 @@
-### Author of [SSH-MITM server](https://github.com/ssh-mitm/ssh-mitm)
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=manfred-kaiser&hide_title=true&show_icons=true&hide=stars&count_private=true" align="right">
 
+### Author of [SSH-MITM server](https://github.com/ssh-mitm/ssh-mitm)
 
-Hello, I'm the author of [SSH-MITM server](https://github.com/ssh-mitm/ssh-mitm).
 
 My interests are:
 
