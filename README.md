@@ -1,5 +1,5 @@
 
-# [SSH-MITM server](https://github.com/ssh-mitm/ssh-mitm) <img src="https://github-readme-stats.vercel.app/api?username=manfred-kaiser&show_icons=true&hide=stars&count_private=true" align="right">
+# [SSH-MITM Server](https://github.com/ssh-mitm/ssh-mitm) <img src="https://github-readme-stats.vercel.app/api?username=manfred-kaiser&show_icons=true&hide=stars&count_private=true" align="right">
 
 
 **SSH-MITM is a man in the middle (mitm) server for security audits supporting public key authentication, session hijacking and file manipulation.**
