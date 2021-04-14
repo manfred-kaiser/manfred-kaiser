@@ -5,6 +5,10 @@
 **SSH-MITM is a man in the middle (mitm) server for security audits supporting public key authentication, session hijacking and file manipulation.**
 
 
+## Support Development
+
+If you want to support development, you can spend some Ethereum to my address: 0xeC6e9224623B6C1f4394882dA0Cf06793D5d1F83
+
 ## Installation SSH-MITM
 
 <img src="https://ssh-mitm.at/assets/images/streamline-free/monitor-loading-progress.svg" align="left" width="138">
