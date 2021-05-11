@@ -13,7 +13,7 @@ Address: 0xeC6e9224623B6C1f4394882dA0Cf06793D5d1F83
 
 ## Installation SSH-MITM
 
-<img src="https://ssh-mitm.at/assets/images/streamline-free/monitor-loading-progress.svg" align="left" width="138">
+<img src="https://www.ssh-mitm.at/assets/images/streamline-free/monitor-loading-progress.svg" align="left" width="138">
 
 The first step to using any software package is getting it properly installed.
 
@@ -23,7 +23,7 @@ To install SSH-MITM, simply run this simple command in your terminal of choice:
 
 ## Connect to the network
 
-<img src="https://ssh-mitm.at/assets/images/streamline-free/programmer-male.svg" align="left" width="138">
+<img src="https://www.ssh-mitm.at/assets/images/streamline-free/programmer-male.svg" align="left" width="138">
 
 To start an intercepting mitm-ssh server on Port 10022, all you have to do is run a single command.
 
@@ -37,7 +37,7 @@ $ ssh -p 10022 user@proxyserver
 
 ## Contributing
 
-<img src="https://ssh-mitm.at/assets/images/streamline-free/write-paper-ink.svg" align="left" width="138">
+<img src="https://www.ssh-mitm.at/assets/images/streamline-free/write-paper-ink.svg" align="left" width="138">
 
 Please contribute to [SSH-MITM server](https://github.com/ssh-mitm/ssh-mitm)
 
