@@ -3,13 +3,14 @@
 
 
 **SSH-MITM is a man in the middle (mitm) server for security audits supporting public key authentication, session hijacking and file manipulation.**
+Laufzeit 1 Monat: Monatlich zum Monatsende
 
+Laufzeit 12 Monate: Zum Laufzeitende, danach monatlich
 
-## Support Development
+Tarifwechsel
 
-If you want to support development, you can spend some Ethereum: 
-
-Address: 0xeC6e9224623B6C1f4394882dA0Cf06793D5d1F83
+Ein Upgrade innerhalb des Produktes ist jederzeit über Ihr Control Center möglich
+Preise inkl. MwSt. Angebote sind nur für begrenzte Zeit gültig und sind teils abhängig von Mindes
 
 ## Installation SSH-MITM
 
