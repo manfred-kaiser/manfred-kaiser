@@ -36,6 +36,24 @@ Man-in-the-middle SSH server for security audits — supporting public key authe
 
 ---
 
+## appimage
+
+<a href="https://github.com/ssh-mitm/appimage">
+  <img src="https://img.shields.io/github/stars/ssh-mitm/appimage?style=social" alt="GitHub Stars">
+</a>
+&nbsp;
+<a href="https://pypi.org/project/appimage/">
+  <img src="https://img.shields.io/pypi/v/appimage.svg?logo=pypi&logoColor=white" alt="PyPI">
+</a>
+&nbsp;
+<a href="https://appimage.readthedocs.io">
+  <img src="https://readthedocs.org/projects/appimage/badge/?version=latest" alt="Documentation">
+</a>
+
+Package Python applications as self-contained AppImages — bundles a complete Python distribution with your app and all its dependencies into a single executable file.
+
+---
+
 ## folderdiff
 
 <a href="https://github.com/manfred-kaiser/folderdiff">
