@@ -13,6 +13,10 @@
   <a href="https://security.stackexchange.com/users/248862/manfred-kaiser">
     <img src="https://img.shields.io/stackexchange/security/r/248862?style=flat-square&logo=stackexchange&label=Security%20Stack%20Exchange" alt="Security Stack Exchange">
   </a>
+  &nbsp;
+  <a href="https://codeberg.org/ssh-mitm">
+    <img src="https://img.shields.io/badge/Codeberg-ssh--mitm-2185D0?style=flat-square&logo=codeberg&logoColor=white" alt="Codeberg">
+  </a>
 </p>
 
 I research SSH security and build open source tools for security audits. Based in Austria — creator of SSH-MITM, currently also working on malware analysis tooling.
