@@ -32,7 +32,26 @@ I research SSH security and build open source tools for security audits. Based i
 Man-in-the-middle SSH server for security audits — supporting public key authentication, session hijacking, and file manipulation.
 
 **CVE Research:**
-[CVE-2021-36367](https://docs.ssh-mitm.at/CVE-2021-36367.html) · [CVE-2021-36368](https://docs.ssh-mitm.at/CVE-2021-36368.html) — Trivial authentication bypass & FIDO token spoofing
+[CVE-2021-36367](https://docs.ssh-mitm.at/vulnerabilities/CVE-2021-36367.html) ·
+[CVE-2021-36368](https://docs.ssh-mitm.at/vulnerabilities/CVE-2021-36368.html) ·
+[CVE-2021-36369](https://docs.ssh-mitm.at/vulnerabilities/CVE-2021-36369.html) ·
+[CVE-2021-36370](https://docs.ssh-mitm.at/vulnerabilities/CVE-2021-36370.html) ·
+[CVE-2022-38336](https://docs.ssh-mitm.at/vulnerabilities/CVE-2022-38336.html) ·
+[CVE-2022-38337](https://docs.ssh-mitm.at/vulnerabilities/CVE-2022-38337.html)
+
+---
+
+## business-rule-engine
+
+<a href="https://github.com/manfred-kaiser/business-rule-engine">
+  <img src="https://img.shields.io/github/stars/manfred-kaiser/business-rule-engine?style=social" alt="GitHub Stars">
+</a>
+&nbsp;
+<a href="https://pypi.org/project/business-rule-engine/">
+  <img src="https://img.shields.io/pypi/v/business-rule-engine.svg?logo=pypi&logoColor=white" alt="PyPI">
+</a>
+
+Python DSL for defining and executing business rules — lets non-developers configure logic without writing code.
 
 ---
 
@@ -80,7 +99,3 @@ Detect webshells and unauthorized modifications in web installations by comparin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![SSH](https://img.shields.io/badge/SSH-Protocol-lightgrey?style=flat-square)
 ![Security](https://img.shields.io/badge/Security-Research-red?style=flat-square)
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=manfred-kaiser&show_icons=true&hide=stars&count_private=true" alt="GitHub Stats">
