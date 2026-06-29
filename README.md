@@ -60,7 +60,7 @@ Package Python applications as self-contained AppImages — bundles a complete P
   <img src="https://img.shields.io/github/stars/manfred-kaiser/clamd-server?style=social" alt="GitHub Stars">
 </a>
 
-Python implementation of the clamd server protocol — run a ClamAV-compatible server without the ClamAV daemon. Useful for testing, mocking, and building custom scan logic behind the standard clamd interface.
+Python implementation of the clamd server protocol — build ClamAV-compatible services with custom scan logic, without depending on the ClamAV daemon.
 
 ---
 
