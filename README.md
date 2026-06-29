@@ -39,6 +39,8 @@ Man-in-the-middle SSH server for security audits — supporting public key authe
 [CVE-2022-38336](https://docs.ssh-mitm.at/vulnerabilities/CVE-2022-38336.html) ·
 [CVE-2022-38337](https://docs.ssh-mitm.at/vulnerabilities/CVE-2022-38337.html)
 
+**Talk:** [SSH MITM attacks & trivial authentication — DeepSec 2021](https://vimeo.com/showcase/9059922/video/651517195) · [Slides](https://github.com/ssh-mitm/ssh-mitm/files/7568291/deepsec.pdf)
+
 ---
 
 ## business-rule-engine
